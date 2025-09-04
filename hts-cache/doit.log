@@ -1,5 +1,5 @@
-https://yangfengstat.github.io/snab2025/ -O ./mirror +.png +.jpg +.jpeg +.css +*.js
-File generated automatically on Thu, 04 Sep 2025 09:05:36, do NOT edit
+https://yangfengstat.github.io/snab2025/ -O ./mirror +.png +.jpg +.jpeg +.css +*.js -%!
+File generated automatically on Thu, 04 Sep 2025 11:01:27, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
 The existing cache will be used (and modified)
